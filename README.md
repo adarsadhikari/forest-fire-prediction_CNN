@@ -1,2 +1,1 @@
-# forest-fire-prediction_CNN
-Forest fire prediction using CNN
+Prediction forest fire from satellite image using CNN
